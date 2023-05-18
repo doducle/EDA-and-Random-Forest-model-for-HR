@@ -37,8 +37,8 @@ There were no missing values in the dataset, but several duplicated rows. These 
 
 A random forest model comprising 500 decision trees was used to determine feature importance in who would quit or not. The plot above shows that in this random forest model, satisfaction_level, number_project, last_evaluation, time_spend_company and average_monthly_hours are the most important factors in determining if someone would quit or not.  
 
-![](C:\Users\doduc\PycharmProjects\pythonProject\Github\EDA-and-Random-Forest-model-for-HR\images\feature_importance.png)
+![](images\feature_importance.png)
 
 The overall model performed with 97% accuracy, 94% precision and 92% recall, show below by the confusion matrix.
 
-![](C:\Users\doduc\PycharmProjects\pythonProject\Github\EDA-and-Random-Forest-model-for-HR\images\confusion_matrix.png)
+![](images\confusion_matrix.png)
