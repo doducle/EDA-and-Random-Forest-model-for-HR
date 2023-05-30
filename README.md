@@ -39,6 +39,6 @@ A random forest model comprising 500 decision trees was used to determine featur
 
 ![](images/feature_importance.png)
 
-The overall model performed with 97% accuracy, 94% precision and 92% recall, shown below by the confusion matrix.
+The overall model performed with 98% accuracy, 94% precision and 93% recall, shown below by the confusion matrix.
 
 ![](images/confusion_matrix.png)
